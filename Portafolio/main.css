@@ -1,0 +1,105 @@
+h1, h2 {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  -webkit-text-decoration: dashed;
+          text-decoration: dashed;
+  text-decoration: overline;
+}
+
+.links {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 30px;
+}
+
+.menu {
+  display: flex;
+  margin: auto;
+  top: -20px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  margin: 30px;
+}
+
+li {
+  list-style: none;
+}
+
+.contenedor {
+  height: 280px;
+  text-align: center;
+  margin: 0;
+  position: relative;
+}
+
+img {
+  border-style: ridge;
+  border-radius: 20px;
+  max-width: 100%;
+  height: auto;
+  width: 200px;
+  margin-right: 530px;
+}
+
+.descuento {
+  text-decoration: line-through;
+}
+
+.imgVenta {
+  width: 100px;
+  border-style: none;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  margin: 0 auto;
+}
+
+.vendido {
+  top: 50%;
+  left: 50%;
+}
+
+.navbar {
+  border-style: ridge;
+  border-radius: 20px;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-decoration: underline;
+  position: relative;
+  margin-left: 210px;
+  bottom: 220px;
+}
+
+nav {
+  box-shadow: 3px 3px 3px 10px black;
+}
+
+body {
+  background-color: rgba(241, 241, 241, 0.5);
+}
+
+button {
+  margin-left: 40px;
+  margin-left: 200px;
+  position: relative;
+  bottom: 220px;
+  margin-right: 1px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.pie {
+  font-size: small;
+}
+
+.img6 {
+  position: relative;
+  top: 60px;
+}/*# sourceMappingURL=main.css.map */
